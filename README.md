@@ -48,12 +48,15 @@ The resources related to this project are intended solely for academic research 
 If you have utilized the data from this project, please declare the reference:
 
 ```
-@article{liu2024CPMI-ChatGLM,
-title={CPMI-ChatGLM: parameter-efficient fine-tuning ChatGLM with Chinese patent medicine instructions},
-author={Can Liu and Kaijie Sun and Qingqing Zhou and Yuchen Duan and Jianhua Shu and Hongxing Kan and Zongyun Gu and Jili Hu},
-journal={Scientific Reports},
-volume={14},
-pages={6403},
-year={2024}
+@article{liu2024cpmi,
+  title={CPMI-ChatGLM: parameter-efficient fine-tuning ChatGLM with Chinese patent medicine instructions},
+  author={Liu, Can and Sun, Kaijie and Zhou, Qingqing and Duan, Yuchen and Shu, Jianhua and Kan, Hongxing and Gu, Zongyun and Hu, Jili},
+  journal={Scientific Reports},
+  volume={14},
+  number={1},
+  pages={6403},
+  year={2024},
+  publisher={Springer Nature},
+  doi={10.1038/s41598-024-56874-w}
 }
 ```
