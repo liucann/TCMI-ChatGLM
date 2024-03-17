@@ -1,5 +1,7 @@
 # CPMI-ChatGLM
 
+This is the official repository for [**CPMI-ChatGLM: parameter-efficient fine-tuning ChatGLM with Chinese patent medicine instructions**](https://www.nature.com/articles/s41598-024-56874-w)
+
 This repository stores the dataset of Chinese patent medicine instructions (CPMI) used to train **CPMI-ChatGLM**.
 
 <p align="center" width="100%">
