@@ -52,8 +52,8 @@ If you have utilized the data from this project, please declare the reference:
 title={CPMI-ChatGLM: parameter-efficient fine-tuning ChatGLM with Chinese patent medicine instructions},
 author={Can Liu and Kaijie Sun and Qingqing Zhou and Yuchen Duan and Jianhua Shu and Hongxing Kan and Zongyun Gu and Jili Hu},
 journal={Scientific Reports},
-volume={**},
-pages={**},
+volume={14},
+pages={6403},
 year={2024}
 }
 ```
