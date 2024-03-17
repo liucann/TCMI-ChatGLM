@@ -60,3 +60,7 @@ If you have utilized the data from this project, please declare the reference:
   doi={10.1038/s41598-024-56874-w}
 }
 ```
+
+## Acknowledgement
+
+- ChatGLM-6B: [https://github.com/THUDM/ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B)
