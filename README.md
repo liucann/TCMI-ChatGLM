@@ -63,4 +63,4 @@ If you have utilized the data from this project, please declare the reference:
 
 ## Acknowledgement
 
-Thanks to my master tutor [Jili Hu](https://github.com/hujili007) for the guidance and foundation model [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B).
+Thanks to my master's supervisor, [Jili Hu](https://github.com/hujili007), and the foundation model [ChatGLM-6B](https://github.com/THUDM/ChatGLM-6B).
